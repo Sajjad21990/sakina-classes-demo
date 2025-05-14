@@ -19,3 +19,10 @@
   padding: 2px;
   cursor: pointer;
 }
+
+.container > btn:hover {
+  background-color: #fff;
+  color: #48196a;
+}
+
+
